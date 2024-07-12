@@ -1,10 +1,10 @@
 ##Hi there I'm Hemamalini
 Artificial Intelligence and Data Science Student
 - 👋 Hi,
-- 👀 I’m interested AI/DS
+- 👀 I’m interested AI/ML
 - 🌱 I’m currently learning Artificial intelligence
-- 💞️ I’m looking for placements
-- 📫 How to reach me 
+- 💞️ I’m looking for placements 
+- 📫 How to reach me hemamalini21004@gmail.com
 - 😄 Pronouns: Fresher
 - ⚡ Fun fact: ...
 
