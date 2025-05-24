@@ -20,7 +20,6 @@ I am a passionate **Artificial Intelligence and Data Science** student at SRM Va
 - SQL
 - AI 
 - Machine Learning
-- PowerBI(basics) 
 - HTML
 ## Projects
 - **Upskill AI-Xpert:** Developed an AI-powered interactive learning platform using NLP models, chatbot integration with Rasa, and backend APIs with FastAPI.  
